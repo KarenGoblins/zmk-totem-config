@@ -111,7 +111,7 @@
                   &mt ESCAPE Q         &kp W                &kp E                 &kp R                 &kp T      &kp Y  &kp U                 &kp I                 &kp O                &kp P
                   &HR_behavior LGUI A  &HR_behavior LALT S  &HR_behavior LCTRL D  &HR_behavior LSHFT F  &kp G      &kp H  &HR_behavior RSHFT J  &HR_behavior RCTRL K  &HR_behavior RALT L  &HR_behavior RGUI SEMI
 &cps_tb_behavior  &kp Z                &kp X                &kp C                 &kp V                 &kp B      &kp N  &kp M                 &kp COMMA             &kp DOT              &kp SLASH               &kp APOS
-                                                            &kp DELETE            &kp SPACE             &kp TAB    &to 1  &lt 1 ENTER           &kp BACKSPACE
+                                                            &kp DELETE            &lt 2 ENTER           &kp TAB    &to 1  &lt 1 SPACE           &kp BACKSPACE
             >;
         };
 
